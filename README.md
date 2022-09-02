@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DMITRIYBY
 - 👀 I’m interested in frontend-developing
-- 🌱 I’m currently learning JavaScript/React JS, C++, HTML/XML/CSS and other.
+- 🌱 I’m currently learning JavaScript/React JS, C++, C#, HTML/XML/CSS and other.
 - 📫 How to reach me Gmail: dmtrforwork@gmail.com.
